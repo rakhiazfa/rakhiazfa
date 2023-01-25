@@ -1,4 +1,4 @@
-### Rakhi Azfa Rifansya
+# Rakhi Azfa Rifansya
 
 👋 Hello, I'm Rakhi Azfa Rifansya from Indonesia.
 
