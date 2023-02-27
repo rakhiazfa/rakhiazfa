@@ -14,7 +14,7 @@
 <space><space>
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakhiazfa&show_icons=true&theme=midnight-purple">
+  <img src="https://github-readme-stats.vercel.app/api?username=rakhiazfa&show_icons=true&theme=transparent">
 </div>
 
 <space><space>
