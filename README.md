@@ -19,4 +19,4 @@
 
 <space><space>
  
- [![Rakhi Azfa Rifansya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rakhiazfa&theme=high-contrast)]([https://github.com/rakhiazfa/github-readme-activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=rakhiazfa&theme=transparent))
+ [![Rakhi Azfa Rifansya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rakhiazfa&theme=transparent)]([https://github.com/rakhiazfa/github-readme-activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=rakhiazfa&theme=transparent))
