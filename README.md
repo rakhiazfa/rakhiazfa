@@ -16,7 +16,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rakhiazfa&show_icons=true&theme=transparent">
 </div>
-
-<space><space>
- 
- [![Rakhi Azfa Rifansya's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rakhiazfa&theme=transparent)]([https://github.com/rakhiazfa/github-readme-activity-graph](https://github-readme-activity-graph.cyclic.app/graph?username=rakhiazfa&theme=transparent))
