@@ -7,7 +7,7 @@
 
 # Portfolio
 
-[Rakhi Azfa Rifansya](https://rakhiazfa.netlify.app)
+[Rakhi Azfa Rifansya](https://rakhiazfa.netlify.app){:target="_blank"}
 
 <br />
 
