@@ -2,12 +2,12 @@
 
 👋 Hello, I'm Rakhi Azfa Rifansya from Indonesia.
 
-- 🔭 I’m currently working on Backend with Laravel.
-- 🌱 I'm currently learning the service and repository patterns in Laravel.
+- 🔭 I’m currently working as a Fullstack Developer.
+- 🌱 I'm currently learning more about Microservices Architecture.
 
 # Portfolio
 
-[Rakhi Azfa Rifansya](https://rakhiazfa.netlify.app)
+[Rakhi Azfa Rifansya](https://rakhiazfa.vercel.app)
 
 <br />
 
