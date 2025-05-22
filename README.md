@@ -13,14 +13,14 @@ I'm passionate about crafting efficient and user-friendly applications as a **Fu
 Here's a glimpse into my technical toolkit:
 
 **💻 Frontend:**
-*   **Languages:** HTML, CSS, JavaScript, TypeScript, GoLang, Java
+*   **Languages:** HTML, CSS, JavaScript
 *   **Styling:** Tailwind CSS
 *   **Framework:**  Vue.Js, React JS, Next JS
 
 
 **🚀 Backend:**
-*   **Language:** Java, JavaScript, TypeScript 
-*   **Framework:** Spring Boot, Node JS, Nest JS, Laravel
+*   **Language:** Java, Node JS, TypeScript, PHP, Go
+*   **Framework:** Spring Boot, Nest JS, Laravel, Gin
 
 **✍️ Core Principles:**
 *   Clean, maintainable code
