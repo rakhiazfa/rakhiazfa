@@ -13,10 +13,9 @@ I'm passionate about crafting efficient and user-friendly applications as a **Fu
 Here's a glimpse into my technical toolkit:
 
 **💻 Frontend:**
-*   **Languages:** HTML, CSS, JavaScript
-*   **Styling:** Tailwind CSS
-*   **Framework:**  Vue.Js, React JS, Next JS
-
+*   **Languages:** HTML, CSS, JavaScript, TypeScript
+*   **Styling:** Tailwind CSS, Shadcn, PrimeVue
+*   **Framework:**  Vue.Js, React JS, Nuxt JS, Next JS
 
 **🚀 Backend:**
 *   **Language:** Java, Node JS, TypeScript, PHP, Go
