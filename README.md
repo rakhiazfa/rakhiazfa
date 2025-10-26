@@ -19,16 +19,12 @@ Here's a glimpse into my technical toolkit:
 
 **🚀 Backend:**
 *   **Language:** Java, Node JS, TypeScript, PHP, Go
-*   **Framework:** Spring Boot, Nest JS, Laravel, Gin
+*   **Framework:** Spring Boot, Nest JS, Laravel, Gin, Fiber
 
 **✍️ Core Principles:**
 *   Clean, maintainable code
 *   Adherence to best practices
 *   Scalable solution development
-
-### 🌱 Currently Learning
-
-🌱 I'm currently learning more about Microservices Architecture.
 
 ### Let's Connect!
 
